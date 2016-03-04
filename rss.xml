@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Performance-Based Interval Training]]></title>
         <description><![CDATA[Performance-Based Interval Training]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pbit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 17:13:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 17:17:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pbit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/pbit/c5ae232c-f4a9-4985-bc40-fefca96f7043/index.html</link>
+            <guid isPermaLink="false">c5ae232c-f4a9-4985-bc40-fefca96f7043</guid>
+            <pubDate>Fri, 04 Mar 2016 17:16:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/876022be-9769-4f18-bcb8-0a55c0f4a52f.jpg">]]></description>
-            <link>undefined9e1feca2-debf-4ba1-af22-bac06da21f2b/index.html</link>
+            <link>https://thegrid.ai/pbit/9e1feca2-debf-4ba1-af22-bac06da21f2b/index.html</link>
             <guid isPermaLink="false">9e1feca2-debf-4ba1-af22-bac06da21f2b</guid>
             <pubDate>Fri, 04 Mar 2016 17:11:17 GMT</pubDate>
         </item>
