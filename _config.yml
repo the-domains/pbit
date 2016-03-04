@@ -1,7 +1,7 @@
 name: PBIT
 favicon: null
-layout_spectrum: 0.7426999846938998
-typography_spectrum: 0.399910545675084
+layout_spectrum: 0.24312
+typography_spectrum: 0.88273
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6226189867593348
+    - '#3e3e3e'
+    - '#ffffff'
+    - '#9e9e9e'
+    - '#c2c2c2'
+    - '#787878'
+  brandStrength: 0.625
   lightness: 0.9611588960979134
   saturation: 0.2880568145774305
   rhythmicContrast: 0.904682302614674
